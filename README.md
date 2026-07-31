@@ -36,7 +36,7 @@ I am a Junior Full Stack Developer and IT Support enthusiast based in Taunggyi, 
 
 | Period | Role | Company | Key Projects |
 |:-------|:-----|:--------|:-------------|
-| **October 2025 – Present** | **IT Support Assiatant** | [Myat Taw Win Hospital](https://myattawwin.hospital/) | •Provide technical support for hardware, software, and network-related issues<br>• Install, configure, and maintain computer systems and applications<br>• Troubleshoot and resolve system problems for staff and users<br>• Assist users with IT-related requests and ensure smooth daily operations<br>•  Monitor and maintain IT equipment and system performance|
+| **August 2025 – Present** | **IT Support Assiatant** | [Myat Taw Win Hospital](https://myattawwin.hospital/) | •Provide technical support for hardware, software, and network-related issues<br>• Install, configure, and maintain computer systems and applications<br>• Troubleshoot and resolve system problems for staff and users<br>• Assist users with IT-related requests and ensure smooth daily operations<br>•  Monitor and maintain IT equipment and system performance|
 | **March 2025 - Present** |  Junior Fullstack Develope | Freelance | Taunggyi, Myanmar · Remote | <br>•  Project : Nosh Posh<br>• 
 ---
 
