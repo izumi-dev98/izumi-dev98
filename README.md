@@ -1,6 +1,6 @@
 <div align="center">
 
-# I'm Nay Myo Maung (Izumi)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=timeGradient&section=header&reversal=false&text=Nay+Myo+Maung&textBg=false&fontSize=73&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" alt="Profile header"/>
 
 ### Junior Full Stack Developer | IT Support | Freelance 
 
