@@ -68,7 +68,11 @@ I am a Junior Full Stack Developer and IT Support enthusiast based in Taunggyi, 
 <br>
 
 
-
+<p align="center">
+  <a href="https://visitorbadge.io/status?path=izumi-dev98">
+    <img src="https://api.visitorbadge.io/api/visitors?path=izumi-dev98&countColor=%23263759&style=flat" alt="Visitors"/>
+  </a>
+</p>
 
 </div>
 
