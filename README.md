@@ -40,7 +40,37 @@ I am a Junior Full Stack Developer and IT Support enthusiast based in Taunggyi, 
 | **March 2025 - Present** |  Junior Fullstack Develope | Freelance | Taunggyi, Myanmar · Remote | <br>•  Project : Nosh Posh<br>• 
 ---
 
+<div align="center">
 
+### 📊 GitHub Statistics
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDA8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Senior+.NET+Engineer+%7C+Team+Lead;Mentor+%26+Open+Source+Contributor)](https://git.io/typing-svg)
+
+<br>
+
+[![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=NayMyoMaung&cc=1a1b27&tc=e6edf3&ic=38bda8&bc=30363d)](https://github.com/tuhinpal/readme-stats-github)
+
+<br>
+
+| Profile | Contribution streak |
+| :---: | :---: |
+| <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NayMyoMaung&theme=github_dark" alt="GitHub profile summary"/> | <img height="195em" src="https://streak-stats.demolab.com/?user=NayMyoMaung&theme=github-dark&hide_border=true" alt="GitHub contribution streak"/> |
+
+| Top languages (repos) | Top languages (commits) |
+| :---: | :---: |
+| <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NayMyoMaung&theme=github_dark" alt="Top languages by repository"/> | <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NayMyoMaung&theme=github_dark" alt="Top languages by commits"/> |
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NayMyoMaung&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph"/>
+
+<br>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NayMyoMaung&theme=github_dark&utcOffset=6.5" alt="Most productive time (Myanmar UTC+6:30)"/>
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=NayMyoMaung&theme=dracula&no-frame=true&column=6&margin-w=8&margin-h=8" alt="GitHub trophies"/>
+
+</div>
 
 
 
