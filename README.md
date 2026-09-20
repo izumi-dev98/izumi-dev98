@@ -63,13 +63,11 @@ I am a Junior Full Stack Developer and IT Support enthusiast based in Taunggyi, 
 | :---: | :---: |
 | <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=izumi-dev98&theme=github_dark" alt="Top languages by repository"/> | <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=izumi-dev98&theme=github_dark" alt="Top languages by commits"/> |
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=izumi-dev98&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%2520Activity" alt="Contribution activity graph"/>
+
 
 <br>
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=izumi-dev98&theme=github_dark&utcOffset=6.5" alt="Most productive time"/>
 
-<br>
 
 
 </div>
