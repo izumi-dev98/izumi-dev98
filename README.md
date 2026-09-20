@@ -50,11 +50,9 @@ I am a Junior Full Stack Developer and IT Support enthusiast based in Taunggyi, 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=21&font=Fira+Code&color=3611F7&pause=1000&width=435&lines=Full+Stack+Developer;It+support+specialist;Freelancer)](https://git.io/typing-svg)
 
-<br>
+</div>
 
 
-
-<br>
 <div align="center">
 
 [![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=izumi-dev98)](https://github.com/tuhinpal/readme-stats-github)
