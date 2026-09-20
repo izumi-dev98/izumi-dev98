@@ -46,7 +46,13 @@ I am a Junior Full Stack Developer and IT Support enthusiast based in Taunggyi, 
 
 ### 📊 GitHub Statistics
 
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=21&font=Fira+Code&color=3611F7&pause=1000&width=435&lines=Full+Stack+Developer;It+support+specialist;Freelancer)](https://git.io/typing-svg)
+
+<br>
+
+
 
 <br>
 <div align="center">
