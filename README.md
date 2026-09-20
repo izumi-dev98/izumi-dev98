@@ -71,7 +71,6 @@ I am a Junior Full Stack Developer and IT Support enthusiast based in Taunggyi, 
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=izumi-dev98&theme=dracula&no-frame=true&column=6&margin-w=8&margin-h=8" alt="GitHub trophies"/>
 
 </div>
 
